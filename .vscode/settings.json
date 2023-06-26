@@ -7,9 +7,11 @@
     "html.hover.references": false,
     "html.suggest.html5": false,
     "html.hover.documentation": false,
-    "editor.autoClosingBrackets": false,
+    "editor.autoClosingBrackets": "never",
     "editor.suggestOnTriggerCharacters": false,
     "json.schemas": [
         
-    ]
+    ],
+    "editor.autoClosingQuotes": "never",
+    "editor.autoSurround": "never"
 }
