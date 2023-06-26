@@ -1,0 +1,15 @@
+{
+    "editor.inlineSuggest.enabled": false,
+    "editor.suggest.showInlineDetails": false,
+    "html.autoClosingTags": false,
+    "html.autoCreateQuotes": false,
+    "html.format.enable": false,
+    "html.hover.references": false,
+    "html.suggest.html5": false,
+    "html.hover.documentation": false,
+    "editor.autoClosingBrackets": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "json.schemas": [
+        
+    ]
+}
